@@ -1,6 +1,6 @@
 ---
 
-```markdown
+
 # 🚀 C and C++ Programming Repository
 
 Welcome to my **C and C++ Programs** repository! This collection contains my practice codes, problem-solving implementations, and fundamental to advanced programs developed during my learning journey.
