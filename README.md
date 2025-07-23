@@ -105,8 +105,9 @@ If you find any issues or want to contribute by adding programs, feel free to cr
 
 ## 🔗 **Connect with Me**
 
-* 💼 [LinkedIn](https://www.linkedin.com)
-* 💻 [GitHub](https://github.com/username)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sk-mahiduzzaman)
+- 💻 [GitHub](https://github.com/zahir2003)
+
 
 ---
 
