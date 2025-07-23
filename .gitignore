@@ -13,3 +13,5 @@
 
 # Ignore build directories (if using IDEs like CodeBlocks or Visual Studio)
 build/
+.vscode/
+.Dev-Cpp/
